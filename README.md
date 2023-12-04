@@ -12,3 +12,10 @@
 - Practice problem solving
 - Callback functions, Event loop, callback queue, Asynchronous programming
 - Callback hell and Promises
+
+### Why we need languages:
+Why can not we have one language do it all?
+We have different languages but they eventually go through the compiler to become one language which is 0s and 1s.
+
+### Interpreted vs compiled languages
+JS is interpreted, unlike C or Java.
