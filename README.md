@@ -23,4 +23,5 @@ You write and just run the file, the whole JS file, unlike in C where you have t
 
 #### How to run a JS file?
 Execute `node <filename>.js` in your terminal.
+
 Example: node main.js
