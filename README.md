@@ -35,3 +35,10 @@ Thanks to Node.js, Javascript can also be used for "Backend Development"
 
 ### Static vs dynamic languages
 JS is loosely typed, you can assign one variable to different types of data. Which is frowned upon, hence the advent of TypeScript.
+
+### Single threaded nature of JS
+JS is always run on a single core, so you can not really split up work contextually between different cores. Hence it is a bad language to use on/for scaleable systems.
+
+### Defiing Variables in JS
+#### let, var, const:
+The use of var is deprecated.
