@@ -19,3 +19,4 @@ We have different languages but they eventually go through the compiler to becom
 
 ### Interpreted vs compiled languages
 JS is interpreted, unlike C or Java.
+You write and just run the file, the whole JS file, unlike in C where you have to run a compiled output file (which is what a compiled language does.)
