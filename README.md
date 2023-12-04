@@ -1,1 +1,1 @@
-# JSBasics
+# JSBasics - Week 1 - Notes
