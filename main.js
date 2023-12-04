@@ -20,3 +20,19 @@ let age = "18";
 let isSingle = true;
 //Using terneary operator and string concatenation
 console.log("This person's name is " + firstName + ", their age is " + age + ", and they are " + (isSingle ? "single" :"taken") + ".")
+
+//CONDITIONALS
+if(isSingle){
+    console.log("This person is single");
+} else {
+    console.log("This person is taken");
+}
+console.log("This is outside the if statement, This statement will always be executed, just like how Kausshik will always be single :(");
+
+//LOOPS
+let i = 0;
+let answer = 0;
+for(i = 0; i <= 100; i++){
+    answer += i;
+}
+console.log(answer);
