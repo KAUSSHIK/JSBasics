@@ -42,3 +42,9 @@ JS is always run on a single core, so you can not really split up work contextua
 ### Defiing Variables in JS
 #### let, var, const:
 The use of var is deprecated.
+
+'let firstName = "Kausshik";
+let age = "18";
+let isSingle = true;
+//Using terneary operator and string concatenation
+console.log("This person's name is " + firstName + ", their age is " + age + ", and they are " + (isSingle ? "single" :"taken") + ".")'
