@@ -42,3 +42,4 @@ JS is always run on a single core, so you can not really split up work contextua
 ### Defiing Variables in JS
 #### let, var, const:
 The use of var is deprecated.
+Look at the [code](./main.js) to understand the use of let, var, and const.
